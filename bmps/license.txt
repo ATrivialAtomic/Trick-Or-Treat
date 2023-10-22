@@ -1,0 +1,13 @@
+The following .bmps are adapted from Stardew Valley®, owned by ConcernedApe LLC.
+Terms and Conditions: https://www.stardewvalley.net/terms/
+
+background.bmp
+cat.bmp
+door.bmp
+grass.bmp
+knight.bmp
+leah_with_candy.bmp
+pumpkin.bmp
+skeleton.bmp
+vampire.bmp
+witch.bmp
