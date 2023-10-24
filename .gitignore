@@ -1,3 +1,4 @@
 .vscode
 boot_out.txt
 settings.toml
+.DS_Store
